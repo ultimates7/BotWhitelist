@@ -1,13 +1,13 @@
 return {
-    ["JulySponge624"] = true,
+    ["HunterBlastClaw2004"] = true,
     ["WgD5z"] = true,
     ["Cha0sCrystalAce"] = true,
     ["H3roHunt3rByt3"] = true,
     ["OrbitZapHunter"] = true,
-    ["P0wer_HAZE2003"] = true,
+    ["ChaseSt0rmyLava"] = true,
     ["Z7mHC"] = true,
-    ["Ash3rToxicPanda"] = true,
-    ["Rider_STEALTH29"] = true,
+    ["z89N3"] = true,
+    ["H2PCV"] = true,
     ["Lion_Spark27"] = true,
     ["KNd5c"] = true,
     ["LiamZer0Night98"] = true,
@@ -23,5 +23,13 @@ return {
     ["Zoinks671"] = true,
     ["N0ahLi0nW0lf"] = true,
     ["VwHM8"] = true,
-    ["JiZr5"] = true
+    ["JiZr5"] = true,
+    ["AvaNeon28"] = true,
+    ["PixelFoxCrystal33"] = true,
+    ["Gabriel_Sparkly47"] = true,
+    ["StormyBear202437"] = true,
+    ["St0rmJ3lly2013"] = true,
+    ["RiftSkat3r28"] = true,
+    ["XxMin3rCircuitxX2005"] = true,
+    ["Turb0ClawHaze2002"] = true
 }
